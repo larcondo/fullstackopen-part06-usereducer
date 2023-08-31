@@ -4,7 +4,7 @@ import Button from './components/Button'
 function App() {
   return (
     <div>
-    <Display />
+      <Display />
       <div>
         <Button type='INC' label='+' />
         <Button type='DEC' label='-' />
